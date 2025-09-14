@@ -1,0 +1,30 @@
+# Ignore raw dataset zips
+*.zip
+
+# Ignore dataset folders
+data/
+data_split/
+
+# Ignore model weights and checkpoints
+*.h5
+*.keras
+*.ckpt
+
+# Ignore training logs
+logs/
+*.log
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Ignore IDE settings
+.vscode/
+.idea/
