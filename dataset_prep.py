@@ -7,7 +7,7 @@ import splitfolders
 # -------------------------------
 # Configuration
 # -------------------------------
-ZIP_PATH = "C:\\Users\\varun\\Downloads\\Amrita Project\\Indian-Traffic-Sign-Dataset(2).zip"
+ZIP_PATH = "Indian-Traffic-Sign-Dataset(2).zip"
 EXTRACT_DIR = "data"
 RAW_DIR = os.path.join(EXTRACT_DIR, "Indian-Traffic Sign-Dataset", "Images")
 OUTPUT_DIR = "data_split"
