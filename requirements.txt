@@ -1,6 +1,6 @@
-tensorflow==2.15.0
-tensorflow-hub==0.16.1
-numpy==1.26.4
-matplotlib==3.9.0
-opencv-python==4.10.0.84
-split-folders==0.5.1
+tensorflow
+tensorflow-hub
+numpy
+matplotlib
+opencv-python
+split-folders
